@@ -1,0 +1,6 @@
+.env
+.cache
+added_tracks.json
+__pycache__/
+*.pyc
+.venv/
